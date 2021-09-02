@@ -16,5 +16,7 @@ public class ZooProgram {
             leo.roar();
             Snake Slither = new Snake();
             Slither.hiss();
+            Elephant Ale = new Elephant();
+            Ale.elephantNoise();
       } // main () end
 } // ZooProgram end
