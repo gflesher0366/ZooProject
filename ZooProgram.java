@@ -17,5 +17,13 @@ public class ZooProgram {
         
         Peacock peanut = new Peacock();
         peanut.honk();
+
+
+          
+           RingTail Julian = new RingTail();
+            Julian.sing();
+
+            
+ //724096bd71a749c38f574f49ff098be0ac8a4257
       } // main () end
 } // ZooProgram end
