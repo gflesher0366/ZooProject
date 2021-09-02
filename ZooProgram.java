@@ -8,7 +8,10 @@
 public class ZooProgram {
       public static void main (String [] args)
       {
-           Lion leo = new Lion ();
+        Lion leo = new Lion ();
         leo.roar();
-    } // main () end
+        
+        Snake Slither = new Snake();
+        Slither.hiss();
+      } // main () end
 } // ZooProgram end
