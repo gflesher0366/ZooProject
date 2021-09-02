@@ -15,7 +15,7 @@ public class ZooProgram {
         
         Snake Slither = new Snake();
         Slither.hiss();
-        
+ 
         Peacock peanut = new Peacock();
         peanut.honk();
 
@@ -24,5 +24,8 @@ public class ZooProgram {
         
         Elephant Ale = new Elephant();
         Ale.elephantNoise();
+
+        Cow conny = new Cow();
+        conny.moo(); 
       } // main () end
 } // ZooProgram end
