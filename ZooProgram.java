@@ -9,10 +9,12 @@
 public class ZooProgram {
       public static void main (String [] args)
       {
-        Lion leo = new Lion ();
-        leo.roar();
-        
-        Snake Slither = new Snake();
-        Slither.hiss();
+
+           Lion leo = new Lion ();
+           RingTail Julian = new RingTail();
+            Julian.sing();
+            leo.roar();
+            Snake Slither = new Snake();
+            Slither.hiss();
       } // main () end
 } // ZooProgram end
