@@ -9,7 +9,7 @@
 public class ZooProgram {
       public static void main (String [] args)
       {
-<<<<<<< HEAD
+
         Lion leo = new Lion ();
         leo.roar();
         
@@ -19,21 +19,10 @@ public class ZooProgram {
         Peacock peanut = new Peacock();
         peanut.honk();
 
-
-          
-           RingTail Julian = new RingTail();
-            Julian.sing();
-
-            
- //724096bd71a749c38f574f49ff098be0ac8a4257
-=======
-
-           Lion leo = new Lion ();
-           RingTail Julian = new RingTail();
-            Julian.sing();
-            leo.roar();
-            Snake Slither = new Snake();
-            Slither.hiss();
->>>>>>> 51e812b9f7d8425a71861026b76ae8c926fa1e87
+        RingTail Julian = new RingTail();
+        Julian.sing();
+        
+        Elephant Ale = new Elephant();
+        Ale.elephantNoise();
       } // main () end
 } // ZooProgram end
