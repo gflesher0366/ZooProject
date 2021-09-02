@@ -2,7 +2,7 @@
 /**
  * A program thats about a peacock
  *
- * @author Grant Flesher
+ * @author Justin Hanrath
  * @version 1.0
  */
 public class Peacock
