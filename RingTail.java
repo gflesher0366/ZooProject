@@ -1,8 +1,9 @@
 
 /**
- * A program thats about a lion
+ * A program thats about a RingTAil
  *
- * @author Grant Flesher
+ * @
+ * Leonidas Manta
  * @version 1.0
  */
 public class RingTail
