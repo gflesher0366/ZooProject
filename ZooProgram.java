@@ -9,6 +9,7 @@
 public class ZooProgram {
       public static void main (String [] args)
       {
+
         Lion leo = new Lion ();
         leo.roar();
         
@@ -17,5 +18,15 @@ public class ZooProgram {
         
         Cow conny = new Cow();
         conny.moo();
+
+
+           
+        RingTail Julian = new RingTail();
+        Julian.sing();
+            
+            
+        Elephant Ale = new Elephant();
+        Ale.elephantNoise();
+
       } // main () end
 } // ZooProgram end
