@@ -7,6 +7,7 @@
  */
 public class Peacock
 {
+    private int age;
     /**
      * Constructor for objects of class Peacock
      */
