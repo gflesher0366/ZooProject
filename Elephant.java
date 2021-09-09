@@ -1,4 +1,11 @@
 
+/**
+ * A program thats about an elephant
+ *
+ * @
+ * Alejandro Kincaid
+ * @version 1.0
+ */
 
 public class Elephant
 {
